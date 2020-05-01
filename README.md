@@ -1,3 +1,2 @@
-# Pandas
-Pandas assignments
-contains data analysis on matches played in ipl tournament.
+# IPL analysis
+Contains data analysis on matches played in ipl tournament.
